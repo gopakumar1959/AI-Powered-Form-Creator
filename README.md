@@ -43,5 +43,6 @@ address_book.xlsx
 python generate-form.py
 Describe properties of the form:  Job application with Name, Email Address, Educational Qualifications, Experience and Skills
 Job_Application.xlsx
-![Screenshot (6)](https://github.com/gopakumar1959/AI-Powered-Form-Creator/assets/127804995/24be5cc4-7723-498a-8b77-edc974a7a3a2)
+![Screenshot (7)](https://github.com/gopakumar1959/AI-Powered-Form-Creator/assets/127804995/b01bccaf-ba6f-4ed5-9451-0358b57e383f)
+
 
