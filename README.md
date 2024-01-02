@@ -35,14 +35,20 @@ To set up and run the backend:
 3. Activate the virtual environment.
 4. Install dependencies with pip install -r requirements.txt.
 ## Sample Runs
-python generate-form.py
+
+1. python generate-form.py
+
 Describe properties of the form: address book
+
 address_book.xlsx
+
 ![Screenshot (6)](https://github.com/gopakumar1959/AI-Powered-Form-Creator/assets/127804995/ae688c90-6f8e-4f53-afc8-0b8e15fb268a)
 
-python generate-form.py
+2. python generate-form.py
+   
 Describe properties of the form:  Job application with Name, Email Address, Educational Qualifications, Experience and Skills
 Job_Application.xlsx
+
 ![Screenshot (7)](https://github.com/gopakumar1959/AI-Powered-Form-Creator/assets/127804995/b01bccaf-ba6f-4ed5-9451-0358b57e383f)
 
 
