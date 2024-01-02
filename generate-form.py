@@ -2,7 +2,7 @@ import openai
 import os
 import sys
 import ast
-openai.api_key = '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'
+openai.api_key = '---------------------------------------------------'
 prompt1 = f"Return code only, I donot need any functional description"
 # prompt = f"You said: {user_input}\nGenerate a response."
 
