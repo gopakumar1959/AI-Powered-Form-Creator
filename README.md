@@ -1,4 +1,4 @@
-AI powered Dynamic Form Creator
+# AI powered Dynamic Form Creator
 A dynamic form creator is a software tool or program that allows users to create forms with dynamic or interactive elements. Unlike static forms that remain unchanged once created, dynamic forms can adapt, change, or respond to user input in real-time. Here are key features and aspects associated with dynamic form creators:
 1.	Interactive Elements: Dynamic form creators enable users to add interactive elements to forms, such as text fields, checkboxes, radio buttons, drop-down lists, date pickers, and more. These elements can dynamically change based on user actions or predefined conditions.
 2.	Conditional Logic: One of the distinguishing features of dynamic forms is the ability to incorporate conditional logic. This means that certain form fields or sections may appear or disappear based on the user's responses, making the form more flexible and tailored to individual needs.
