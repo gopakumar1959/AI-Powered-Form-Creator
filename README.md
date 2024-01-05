@@ -8,6 +8,7 @@ A dynamic form creator is a software tool or program that allows users to create
 6.	User-Friendly Interface: A good dynamic form creator typically offers a user-friendly interface that allows users to drag and drop form elements, configure settings, and preview the form in real-time. This ease of use is essential for individuals with varying technical backgrounds.
 7.	Customization Options: Users can often customize the look and feel of dynamic forms, including colors, fonts, and layouts. This helps ensure that the forms align with the branding or visual preferences of the user or organization.
 8.	Automated Form Generation: Some dynamic form creators can generate the underlying code or script necessary to embed the form in a website or application. This automation simplifies the process for users who may not have extensive programming knowledge.
+   
 Dynamic form creators find applications in various fields, including web development, data collection, surveys, registration systems, and more. They empower users to design versatile and engaging forms that adapt to specific requirements and user interactions.
 
 # Python Program 
